@@ -1,0 +1,6 @@
+
+
+
+ <li>{{@key}}: {{this.Ten}} {{this.Gia}} {{this.SoLuong}} </li>
+ 
+ 
